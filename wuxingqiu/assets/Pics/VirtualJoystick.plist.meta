@@ -1,0 +1,56 @@
+{
+  "ver": "1.2.4",
+  "uuid": "6920a16b-a6f4-47a5-b808-f356a8df37bc",
+  "rawTextureUuid": "7df8bfcf-cacd-4231-aa9b-c8424c10d238",
+  "size": {
+    "width": 472,
+    "height": 231
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "chassis.png": {
+      "ver": "1.0.4",
+      "uuid": "a098711c-c6a8-4703-94f4-2ea45ef4cb52",
+      "rawTextureUuid": "7df8bfcf-cacd-4231-aa9b-c8424c10d238",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 236,
+      "height": 231,
+      "rawWidth": 236,
+      "rawHeight": 231,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "joystick.png": {
+      "ver": "1.0.4",
+      "uuid": "5f205442-b68c-4c84-a415-228286ac2c65",
+      "rawTextureUuid": "7df8bfcf-cacd-4231-aa9b-c8424c10d238",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 236,
+      "trimY": 0,
+      "width": 236,
+      "height": 231,
+      "rawWidth": 236,
+      "rawHeight": 231,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}
